@@ -1,6 +1,6 @@
 # Jogo de Memória
 
-Este é um jogo de memória desenvolvido como tarefa de curso, utilizando **HTML**, **CSS** e **JavaScript**.
+Este é um jogo de memória desenvolvido feito em curso, utilizando **HTML**, **CSS** e **JavaScript**.
 
 ## Como jogar 🧠
 
