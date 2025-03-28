@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Jogo de Memória
 
 Este é um jogo de memória desenvolvido feito em curso, utilizando **HTML**, **CSS** e **JavaScript**.
