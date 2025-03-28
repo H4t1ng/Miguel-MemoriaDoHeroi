@@ -9,7 +9,7 @@ class CardManager {
         this.urlFactory = factory;
     }
 
-    // Generate new card based in the hero number
+    // Generate new card baseda in the hero number
     gen(heroNumber) {
         // Get reference to the template and clone it's contents
         let template = document.getElementById("cardTemplate");
